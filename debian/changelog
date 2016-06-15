@@ -1,3 +1,9 @@
+linux-latest-ev3dev-bb.org (3) stable; urgency=medium
+
+  * Kernel 4.4.12-ti-rt-r30-12-ev3dev-bb.org
+
+ -- David Lechner <david@lechnology.com>  Tue, 14 Jun 2016 21:44:18 -0500
+
 linux-latest-ev3dev-bb.org (2) stable; urgency=medium
 
   * Update for 4.4.9-ti-rt-r25-11-ev3dev-bb.org kernel
