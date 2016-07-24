@@ -1,3 +1,9 @@
+linux-latest-ev3dev-bb.org (4) stable; urgency=medium
+
+  * Kernel 4.4.15-ti-rt-r37-13-ev3dev-bb.org
+
+ -- David Lechner <david@lechnology.com>  Sun, 24 Jul 2016 18:03:40 -0500
+
 linux-latest-ev3dev-bb.org (3) stable; urgency=medium
 
   * Kernel 4.4.12-ti-rt-r30-12-ev3dev-bb.org
