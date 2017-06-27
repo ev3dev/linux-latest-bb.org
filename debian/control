@@ -2,8 +2,8 @@ Source: linux-latest-ev3dev-bb.org
 Section: kernel
 Priority: optional
 Maintainer: David Lechner <david@lechnology.com>
-Build-Depends: debhelper (>= 9.0.0)
-Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 10.0.0)
+Standards-Version: 3.9.8
 Vcs-Git: git://github.com/ev3dev/linux-latest-ev3dev-bb.org.git
 Vcs-Browser: http://github.com/ev3dev/linux-latest-ev3dev-bb.org
 
