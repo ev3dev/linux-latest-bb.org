@@ -1,3 +1,10 @@
+linux-latest-ev3dev-bb.org (13) testing; urgency=medium
+
+  * Update compat and standards version
+  * Kernel 4.9.34-ev3dev-1.2.0-bb.org
+
+ -- David Lechner <david@lechnology.com>  Mon, 26 Jun 2017 21:31:08 -0500
+
 linux-latest-ev3dev-bb.org (12) testing; urgency=medium
 
   * Kernel 4.9.21-ev3dev-1.1.0-bb.org
