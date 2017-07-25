@@ -1,3 +1,9 @@
+linux-latest-ev3dev-bb.org (10+jessie4) stable; urgency=medium
+
+  * Kernel 4.4.68-ti-rt-r112-21-ev3dev-bb.org
+
+ -- David Lechner <david@lechnology.com>  Tue, 25 Jul 2017 14:09:08 -0500
+
 linux-latest-ev3dev-bb.org (10+jessie3) stable; urgency=medium
 
   * Kernel 4.4.62-ti-rt-r102-20-ev3dev-bb.org
