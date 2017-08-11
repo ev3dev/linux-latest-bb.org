@@ -1,3 +1,9 @@
+linux-latest-ev3dev-bb.org (15) testing; urgency=medium
+
+  * Kernel 4.9.41-ev3dev-1.4.0-bb.org
+
+ -- David Lechner <david@lechnology.com>  Fri, 11 Aug 2017 11:57:56 -0500
+
 linux-latest-ev3dev-bb.org (14) testing; urgency=medium
 
   * Fix some lintian warnings
