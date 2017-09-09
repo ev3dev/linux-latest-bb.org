@@ -9,14 +9,14 @@ Vcs-Browser: https://github.com/ev3dev/linux-latest-ev3dev-bb.org
 
 Package: linux-image-ev3dev-bb.org
 Architecture: armhf
-Provides: linux-modules-4.9.41-ev3dev-1.4.0-bb.org
-Depends: linux-image-4.9.41-ev3dev-1.4.0-bb.org, ${misc:Depends}
+Provides: linux-modules-4.9.45-ev3dev-1.5.0-bb.org
+Depends: linux-image-4.9.45-ev3dev-1.5.0-bb.org, ${misc:Depends}
 Description: Linux kernel for ev3dev (metapackage)
  This package depends on the latest Linux kernel and modules from the ev3dev
  project for use on BeagleBone.
 
 Package: linux-headers-ev3dev-bb.org
 Architecture: armhf
-Depends: linux-headers-4.9.41-ev3dev-1.4.0-bb.org, ${misc:Depends}
+Depends: linux-headers-4.9.45-ev3dev-1.5.0-bb.org, ${misc:Depends}
 Description: Header files for Linux ev3dev configuration (metapackage)
  This package depends on the latest headers for the latest ev3dev Linux kernel.
