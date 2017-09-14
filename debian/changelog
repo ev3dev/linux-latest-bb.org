@@ -1,3 +1,9 @@
+linux-latest-ev3dev-bb.org (17) testing; urgency=medium
+
+  * Kernel 4.9.50-ev3dev-1.5.1-bb.org
+
+ -- David Lechner <david@lechnology.com>  Thu, 14 Sep 2017 10:54:51 -0500
+
 linux-latest-ev3dev-bb.org (16) testing; urgency=medium
 
   * Kernel 4.9.45-ev3dev-1.5.0-bb.org
