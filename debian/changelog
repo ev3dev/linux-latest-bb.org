@@ -1,3 +1,9 @@
+linux-latest-ev3dev-bb.org (19) stable; urgency=medium
+
+  * Kernel 4.14.34-ev3dev-1.6.1-bb.org
+
+ -- David Lechner <david@lechnology.com>  Sat, 14 Apr 2018 13:57:48 -0500
+
 linux-latest-ev3dev-bb.org (18) stable; urgency=medium
 
   * Kernel 4.9.59-ev3dev-1.6.0-bb.org
